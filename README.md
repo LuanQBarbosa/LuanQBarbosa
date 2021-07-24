@@ -2,11 +2,11 @@
 
 <h3> &nbsp;About Me </h3>
 
-My name is Luan Barbosa and I'm graduating from Computer Science on Federal University of Paraiba on 2021.
+My name is Luan Barbosa and I'm graduating in CS at the Federal University of Paraiba on 2021.
 My main focus right now is on growing as a **Web Developer** and I'm interested on both Back and Front-End.
 I have a pretty solid knowledge on Javascript and some experience with Vue, React and Node.
 
-Also, I'm pretty passionate about Japan. Lived in Tokyo for an year and have an intermediate Japanese level (JLPT N3).
+Also, I'm pretty passionate about Japan. I lived in Tokyo for an year and have an intermediate Japanese level (JLPT N3).
 
 <h3> :rocket: &nbsp;Languages and Frameworks </h3>
 
