@@ -1,4 +1,4 @@
-<h2> Hey there! Welcome to my Github! :call_me_hand: </h2>
+<h2> Welcome to my Github! :call_me_hand: </h2>
 
 <h3> &nbsp;About Me </h3>
 
@@ -27,8 +27,6 @@ Also, I'm pretty passionate about Japan. Lived in Tokyo for an year and have an 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Get in touch! </h3> 
 
