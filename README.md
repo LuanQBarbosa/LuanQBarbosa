@@ -1,6 +1,6 @@
 <h2> Welcome to my Github! :call_me_hand: </h2>
 
-<h3> &nbsp;About Me </h3>
+<h3> :computer: &nbsp;About Me </h3>
 
 My name is Luan Barbosa and I'm graduating in CS at the Federal University of Paraiba on 2021.
 My main focus right now is on growing as a **Web Developer** and I'm interested on both Back and Front-End.
