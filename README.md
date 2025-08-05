@@ -2,11 +2,10 @@
 
 <h3> :computer: &nbsp;About Me </h3>
 
-My name is Luan Barbosa and I'm graduating in Computer Science at the Federal University of Paraiba (UFPB) on 2021.
-My main focus right now is on growing as a **Web Developer** and I'm interested on both Back and Front-End.
-I have a pretty solid knowledge on Javascript and some experience with Vue, Nuxt, React, Next, Node, Java, Spring, PHP and Laravel.
+Tokyo based Software Engineer specialized in web development with front and back-end experience.
+Working mainly with a full Ruby On Rails stack, including front-end with Hotwire (Turbo + Stimulus), but also using morden JavaScript frameworks, like React and Svelte, for fun on personal projects.
 
-Also, I'm pretty passionate about Japan. I lived in Tokyo for one year and have an intermediate Japanese level (JLPT N3).
+Always willing to learn new technologies and improve my skills on the ones that I already know. Firm believer that software development is a way to unleash our creativity and solve real world problems to make everyone's life easier.
 
 <h3> :rocket: &nbsp;Languages and Frameworks </h3>
 
